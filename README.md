@@ -76,14 +76,14 @@ Analyze sales distribution across different fat-content categories.
 
 ## 🖥️ Dashboard Preview
 
-> 📸 Dashboard screenshots will be added here.
+### 🛍️ Item Analysis
+![Item Analysis](Images/Screenshot%202026-10-07%20214814-.png)
 
+### 🏪 Outlet Analysis
+![Outlet Analysis](Images/Screenshot%202026-10-07%20214831-.png)
 
-![Item Analysis](Images\Screenshot 2026-10-07 214814.png)
-
-![Outlet Analysis](Images\Screenshot 2026-10-07 214831.png)
-
-![Dashboard Overview](Images\Screenshot 2026-10-07 214901.png)
+### 📈 Dashboard Overview
+![Dashboard Overview](Images/Screenshot%202026-10-07%20214901-.png)
 
 ---
 
