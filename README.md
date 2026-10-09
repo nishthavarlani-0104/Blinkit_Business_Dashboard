@@ -102,20 +102,12 @@ Analyze sales distribution across different fat-content categories.
 ## 📁 Project Structure
 
 ```text
-Blinkit-Sales-Analysis/
-│
-├── Dashboard/
-│   └── Blinkit Business Dashboard.pbix
-│
-├── Presentation/
-│   └── Blinkit Business Dashboard PowerBI.pptx
-│
-├── Images/
-│   └── Dashboard screenshots
+Blinkit_Business_Dashboard/
 │
 ├── Dataset/
-│   └── Source dataset (if included)
-│
+├── Images/
+├── Blinkit Business Dashboard powerbi.pptx
+├── Blinkit Business dashboard.pbix
 └── README.md
 ```
 
